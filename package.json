@@ -1,0 +1,23 @@
+{
+  "name": "@minimus-ecommerce/response",
+  "version": "0.1.6",
+  "description": "Standardized response module to be used for all node based minimus services",
+  "main": "index.js",
+  "files": ["dist/**/*"],
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimus-ecommerce/response-module.git"
+  },
+  "author": "Akash NP <akashnp1998@gmail.com> (akashnp.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimus-ecommerce/response-module/issues"
+  },
+  "homepage": "https://github.com/minimus-ecommerce/response-module#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
