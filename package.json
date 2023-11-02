@@ -1,8 +1,9 @@
 {
   "name": "@minimus-ecommerce/response",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "description": "Standardized response module to be used for all node based minimus services",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/**/*"
   ],
